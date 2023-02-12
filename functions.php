@@ -1,5 +1,8 @@
 <?php
-
+/*---- Affichage de la barre d'administration dans wordpress
+if (current_user_can('administrator')) {
+    show_admin_bar(true);
+  } -----*/
 /**----- Ajout de la personnalisation des menus ------ */
 function register_my_menu() {
   register_nav_menu('header-menu',__( 'Header Menu' ));

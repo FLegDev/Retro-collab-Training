@@ -1,8 +1,7 @@
-<?php
- require('header.php');
-
-?>
+<?php get_header() ?>
 
 <h3>hello world </h3>
 
-<?php require('footer.php');
+<?php get_footer() ?>
+</body>
+</html>
