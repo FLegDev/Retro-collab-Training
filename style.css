@@ -1,5 +1,15 @@
+@charset "UTF-8";
 /*
-Theme Name: Thème Rétro-collab
+Theme Name : Thème Rétro-collab
 */
+/** ---  container-carousel-*/
+.Container {
+  font-size: 1.2em;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#div {
+  display: block;
+}
 
 /*# sourceMappingURL=style.css.map */
